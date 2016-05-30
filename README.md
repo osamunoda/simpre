@@ -3,4 +3,4 @@ Requirement : Mac( Safari ver9~ ), FileMaker ver14~, standalone(FileMaker sharin
 
 This is a presentation tool built on FileMaker.
 
-tutorial video : 
+tutorial video : https://www.youtube.com/watch?v=y_DB3RVshCg
