@@ -9,3 +9,6 @@ tutorial video : https://www.youtube.com/watch?v=y_DB3RVshCg
 06/13/2016 :
 New presentation 'FileMaker with JSON' is added.
 Bug fix: CSS default value calculation ( in each slide - advanced option )
+
+06/15/2016 : 
+Add '-webkit-' prefix to flex and some other properties.
