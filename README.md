@@ -18,3 +18,12 @@ add prefix : animationend --> webkitAnimationEnd
 Now
 Simpre Requirement changes to 
 Safari ver8.0.8~
+
+08/08/2016 : 
+Simpre controller is availbale.
+Open simpre( which is hosted by Mac ) using your iPhone(FileMakerGo)!
+ 
+ * use-device-orientation option:
+ I know it's nonsense, but just for fun.Tilting the device more than 45 degrees, you can go and back in the slideshow.
+
+ 
