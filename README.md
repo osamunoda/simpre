@@ -1,5 +1,5 @@
 # simpre
-Requirement : Mac( Safari ver9~ ), FileMaker ver14~, standalone(FileMaker sharing not supported)
+Requirement : Mac( Yosemite~ , Safari ver8~ ), FileMaker ver14~, standalone(FileMaker sharing not supported)
 
 This is a presentation tool built on FileMaker.
 
@@ -15,6 +15,7 @@ Add '-webkit-' prefix to flex and some other properties.
 
 06/16/2016
 add prefix : animationend --> webkitAnimationEnd
+
 Now
 Simpre Requirement changes to 
 Safari ver8.0.8~
