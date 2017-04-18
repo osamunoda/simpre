@@ -28,3 +28,15 @@ Open simpre( which is hosted by Mac ) using your iPhone(FileMakerGo)!
  I know it's nonsense, but just for fun.Tilting the device more than 45 degrees, you can go and back in the slideshow.
 https://www.youtube.com/watch?v=TPnpSnX2czE
  
+ 
+ 04/18/2017
+ update for OSX 10.12.4
+ Changed the file path specification in the webviewer
+ 
+ ~0SX10.12.3  “file:/“ & Get(TemporaryPath) & targetFile 
+ (This was the basic pattern.But now, invalid.)
+ 
+ OSX10.12.4~  “file:/volumes“ & Get(TemporaryPath) & targetFile 
+ ( Now this pattern is valid.)
+ 
+ It seems that the path handling in the WebViewer engine has changed, I think.
