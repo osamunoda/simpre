@@ -40,3 +40,8 @@ https://www.youtube.com/watch?v=TPnpSnX2czE
  ( Now this pattern is valid.)
  
  It seems that the path handling in the WebViewer engine has changed, I think.
+ 
+ 
+ 07/18/2017
+ Simpre2 is released.
+ This repository is renewed as simpre2.
